@@ -1,1 +1,1 @@
-# school-learnings-blog
+learnings
