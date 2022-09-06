@@ -26,7 +26,7 @@ I like
 Some people tend to be kind and don’t give meaningful feedback if the answers are forthright:
 
 ## Problematic
-Lessons I didn’t  like today:
+Lessons I didn’t like today:
 * [ ] Interaction Design (morning)
 * [ ] Motion Design (afternoon)
 

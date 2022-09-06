@@ -15,7 +15,7 @@ const hello = x?.y?.z
 * it's hard
 
 ## from class to function 
-* where does the stat life
+* where does the state life
 
 ## History
 First piece of js-code that got shipped to other users [Acrobat Plugin](https://github.com/signalwerk/acrobat.splitter)
